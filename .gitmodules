@@ -1,3 +1,6 @@
 [submodule "study_Ignite_React_Web_01-github-explorer"]
 	path = study_Ignite_React_Web_01-github-explorer
 	url = git@github.com:KesleyDavid/study_Ignite_React_Web_01-github-explorer.git
+[submodule "study_Ignite_React_Web_02-dtmoney"]
+	path = study_Ignite_React_Web_02-dtmoney
+	url = git@github.com:KesleyDavid/study_Ignite_React_Web_02-dtmoney.git
